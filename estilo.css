@@ -49,3 +49,21 @@ li a:hover {
   background: rgb(139, 105, 201);
   color: azure;
 }
+#amora {
+  width: 15%;
+}
+.caixaAmora{
+  position: absolute;
+  top: 45%;
+  width: 90%;
+  height: 120px;
+  background:rgb(168, 195, 226);
+  left: 0;
+  margin: 20px;
+  border-color: blue;
+  border-style: solid;
+  border-width: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: end;
+}
